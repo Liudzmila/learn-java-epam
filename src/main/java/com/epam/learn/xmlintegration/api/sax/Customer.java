@@ -1,4 +1,4 @@
-package main.java.com.epam.learn.xmlintegration.sax;
+package main.java.com.epam.learn.xmlintegration.api.sax;
 
 import java.math.BigDecimal;
 import java.text.DateFormat;
