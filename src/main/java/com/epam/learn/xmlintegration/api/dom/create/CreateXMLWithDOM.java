@@ -1,4 +1,4 @@
-package main.java.com.epam.learn.xmlintegration.api.dom.createxml;
+package main.java.com.epam.learn.xmlintegration.api.dom.create;
 
 import main.java.com.epam.learn.xmlintegration.dataprovider.DataProvider;
 import main.java.com.epam.learn.xmlintegration.model.Customer;
