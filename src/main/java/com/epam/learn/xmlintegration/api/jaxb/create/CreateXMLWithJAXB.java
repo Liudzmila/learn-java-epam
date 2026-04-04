@@ -1,8 +1,8 @@
 package main.java.com.epam.learn.xmlintegration.api.jaxb.create;
 
-import main.java.com.epam.learn.xmlintegration.api.jaxb.create.dataprovider.DataProvider;
-import main.java.com.epam.learn.xmlintegration.api.jaxb.create.model.Customer;
-import main.java.com.epam.learn.xmlintegration.api.jaxb.create.model.Customers;
+import main.java.com.epam.learn.xmlintegration.api.jaxb.dataprovider.DataProvider;
+import main.java.com.epam.learn.xmlintegration.api.jaxb.model.Customer;
+import main.java.com.epam.learn.xmlintegration.api.jaxb.model.Customers;
 import jakarta.xml.bind.JAXBContext;
 import jakarta.xml.bind.JAXBException;
 import jakarta.xml.bind.Marshaller;

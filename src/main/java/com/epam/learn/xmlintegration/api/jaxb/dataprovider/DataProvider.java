@@ -1,6 +1,6 @@
-package main.java.com.epam.learn.xmlintegration.api.jaxb.create.dataprovider;
+package main.java.com.epam.learn.xmlintegration.api.jaxb.dataprovider;
 
-import main.java.com.epam.learn.xmlintegration.api.jaxb.create.model.Customer;
+import main.java.com.epam.learn.xmlintegration.api.jaxb.model.Customer;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;

@@ -1,4 +1,4 @@
-package main.java.com.epam.learn.xmlintegration.api.jaxb.create.model;
+package main.java.com.epam.learn.xmlintegration.api.jaxb.model;
 
 import jakarta.xml.bind.annotation.XmlAccessType;
 import jakarta.xml.bind.annotation.XmlAccessorType;
